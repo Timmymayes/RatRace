@@ -1,1 +1,8 @@
 * RatRace Rules
+
+** Core Game Loop
+
+*** Setup
+*** Core loop
+*** Game End
+Game ends when a number of islands score equal to number of players minus 1.

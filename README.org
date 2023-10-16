@@ -1,1 +1,8 @@
-* Rat Race - Crawl your way to the top
+* Rat Race - Scratch and crawl your way to the top
+
+#+ATTR_ORG: :width 500px
+[[file:images/version1.jpg]]
+
+** Concept
+Rat Race is an abstract tile laying and area control game that puts players in the shoes of Ratcruiter to the writhing masses.
+
