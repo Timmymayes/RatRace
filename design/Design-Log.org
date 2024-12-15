@@ -1,1 +1,27 @@
 * Rat Race Design Log
+** 2023-11-15 BggCon
+*** Overview of Changes
+**** Switch from 3 Islands to single island.
+The initial 3 island 
+** 2024-9-24
+*** Overiew of changes
+**** Drop points and add win conditions
+We've dropped the points and moved to instant win conditions only. This has been tremendous as players can focus on the center board and the game becomes less calulational.
+
+**** Victory conditions
+- Full Employement - all rats lvl 2 or higher
+- Big Cheese - 1 rat at 5 or higher
+- Middle management win - 3 rats on 3 different colors at lvl 3+
+- Early retirement - points for squishing (18 is current threshhold)
+** 2024-12-7
+*** Overview of changes
+**** Tile selection changed to 3 tiles forward
+We've been playing with a few different changes for how to select tiles. All of which felt clunky. I asked Nick what we were trying to solve with this change? His answer was how things felt a little arbitrary becuase with a selection of 5 you can get around essentially the entire set of tiles. I suggested limit choice to 3, this enable max of 9 moves vs 15. So half the board is available. Keep the ability to spend 1 AP to move the marker anywhere.
+
+The results were fantastic, for 2p at least. You can position the selection marker in awkward spots for your opponent and you always get an ideal tile. In one game Nick really wanted a 3 straight brown tile and he could barely reach it by choosing the 3rd tile option 3x in a row. This got him the tile but left him with some suboptimal tiles as a result and it ended up costing him the game.
+
+**** Acrylic Tiles
+Nick did a new verson of the game using acrylic and it is a touch thinner but maintins its weight. The real benefit is time cost to produce. No sanding required just cut and sticker. 
+
+**** Blind Playtests and rules
+Next up on the docket for Rat Race is writing a rules document and trying to get some blind playtesting to happen
